@@ -19,3 +19,5 @@ The design was verified using a testbench covering:
 1. Sequential Write/Read operations.
 2. Full and Empty corner cases.
 3. Overflow/Underflow protection.
+### simulation waveform
+![FIFO Waveform results](https://github.com/kabalisuthan789-bot/Parametric-Sync-FIFO-Verilog/raw/main/lin.png)
